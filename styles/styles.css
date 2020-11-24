@@ -1,0 +1,60 @@
+/*Joy Bradshaw 9/1/2020*/
+
+#q1 {color: #000080;
+	font-weight: bold;}
+#q2 {color: #2fb74f;
+	font-weight: bold;}
+#q3 {color: #000080;
+	font-weight: bold;}
+
+#outerwrapper {	
+	width: 90%;
+	margin: 0 auto;
+	padding: 0.5em 1.5em;
+	background-color: #eee;
+}
+
+/* table styles */
+
+table, td, th {
+	border-collapse: collapse;
+	border: 1px #BE0000 solid;
+	padding: 0.5em;
+}
+
+th {
+	width: 15%;
+}
+
+/* text styles */
+
+h2 { color :#BE0000; } /* deep red */
+
+/* styles for keywords, emphasis, and titles */	
+		
+.keyword { background-color: #FFFF66; /* unmellow yellow */
+			font-size: 1.1em;
+			font-weight: bold;
+			}
+
+.emphasize { font-size: 1.1em;
+				font-weight: bold;
+				}
+				
+.title { font-style: italic;}
+	
+/* code styles */
+	
+code {
+	font-family: "Courier New", Monospace;
+	font-size: 1.1em;
+	font-weight: bold;
+	}
+
+.html { color: #00f; }         /* blue like textbook */
+
+.css { color: #FF69B4;}        /* pink like textbook */
+
+.javascript {color: #2fb74f; } /*deep green*/
+
+
